@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Legends</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="facebook_app_id">903801823434140</string>
+    <string name="fb_login_protocol_scheme">fb903801823434140</string>
+
+    <string name="API_URL">http://192.168.101.207/api</string>
+    <string name="CLIENT_ID">SKdUhdtemVdCvW2oyyEjdrD7BmrXPXIeJOhOUqEA</string>
+    <string name="CLIENT_SECRET">n3QmUZ30bvHTDaJiwSAF6Fs9IOiJiAvbK4sjZ6sL3zeYkuZohMxXHhQ9EIeoACYkeTbe9KdrivDnmkmNWThSEYN8Wi0MaGC8ykevqCDEQMMbYSAD8AqHJQSRwSviqQdh</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

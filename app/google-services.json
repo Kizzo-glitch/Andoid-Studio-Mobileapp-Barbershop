@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591992415001",
+    "firebase_url": "https://lengends-barbershop.firebaseio.com",
+    "project_id": "lengends-barbershop",
+    "storage_bucket": "lengends-barbershop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591992415001:android:12fd67e8b019ab3fb41b88",
+        "android_client_info": {
+          "package_name": "com.example.lengendsbarbershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591992415001-553ui9uvq60v567tr1qt1gjadm5c64d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnK68yHtQhAPAIgAmVTU3jXwXf_UsCDGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591992415001-553ui9uvq60v567tr1qt1gjadm5c64d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

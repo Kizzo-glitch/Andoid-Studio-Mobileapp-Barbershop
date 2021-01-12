@@ -1,0 +1,22 @@
+<?xml version= "1.0" encoding= "utf-8" ?>
+<menu xmlns:android = "http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id= "@+id/nav_booking"
+        android:icon= "@drawable/branch"
+        android:title= "Booking" />
+    <item
+        android:id= "@+id/nav_delivery"
+        android:icon= "@drawable/service"
+        android:title= "Delivery" />
+    <item
+        android:id= "@+id/nav_statistic"
+        android:icon= "@drawable/book"
+        android:title= "Statistic" />
+    <item
+        android:id= "@+id/nav_logout"
+        android:icon= "@drawable/logout"
+        android:title= "Logout" />
+
+
+</menu>

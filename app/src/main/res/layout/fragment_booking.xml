@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/booking_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?attr/actionBarSize"
+    android:orientation="vertical"
+    tools:context=".Fragments.BookingFragment" >
+
+    <fragment
+        android:id="@+id/service_map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <ListView
+        android:id="@+id/booking_list"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="ON THE WAY"
+        android:textColor="@color/gmm_white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</LinearLayout>
